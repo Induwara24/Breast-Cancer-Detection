@@ -3,7 +3,7 @@
 This project aims to build a machine learning model to classify breast cancer as malignant or benign using the **Wisconsin Diagnostic UCI dataset**. The model utilizes feature selection, hyperparameter tuning, and SMOTE for class balancing to improve performance.
 
 ## Dataset
-- **Source**: [Kaggle Datasets](https://www.kaggle.com/datasets/abhinavmangalore/breast-cancer-dataset-wisconsin-diagnostic-uci?select=breast-cancer-wisconsin-data.csv))
+- **Source**: [Kaggle Datasets](https://www.kaggle.com/datasets/abhinavmangalore/breast-cancer-dataset-wisconsin-diagnostic-uci?select=breast-cancer-wisconsin-data.csv)
 - **Features**: 30 numerical features extracted from digitized images of breast mass
 - **Target**: Diagnosis (Malignant or Benign)
 
